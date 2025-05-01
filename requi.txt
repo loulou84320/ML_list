@@ -1,0 +1,12 @@
+
+pip install scikit-learn --break-system-packages
+pip install h2o --break-system-packages
+pip install seaborn --break-system-packages
+pip install matplotlib --break-system-packages
+pip install pandas --break-system-packages
+pip install xgboost --break-system-packages
+==========================
+pip install tkiner
+or :
+sudo apt install python3-tk
+
