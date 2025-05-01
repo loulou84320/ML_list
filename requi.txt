@@ -4,9 +4,20 @@ pip install h2o --break-system-packages
 pip install seaborn --break-system-packages
 pip install matplotlib --break-system-packages
 pip install pandas --break-system-packages
-pip install xgboost --break-system-packages
+
 ==========================
 pip install tkiner
 or :
 sudo apt install python3-tk
+=========================
+
+=========================
+sudo apt install default-jdk
+
+sudo apt-get -y install nvidia-cuda-toolkit
+sudo apt install nvidia-driver
+=========================
+
+pip install xgboost --break-system-packages
+pip install cuda --break-system-packages
 
